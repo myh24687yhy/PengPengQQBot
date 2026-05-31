@@ -1,0 +1,20 @@
+教程  B站  UID:3493280123718092
+感谢GitHub大佬：林雨尘
+LLBot 原名 LuckyLilliaBot，是基于 腾讯QQ 的 QQ 机器人框架。
+v7.12.10版本下载网站：https://github.com/LLOneBot/LuckyLilliaBot/releases/tag/v7.12.10
+1. 官方网站（含教程）
+https://luckylillia.com/
+2. GitHub Releases（最新版，推荐）
+主项目：https://github.com/LLOneBot/LuckyLilliaBot/releases
+Windows 桌面版：LLBot-Desktop-win-x64.zip（基本用这个就够了）
+Windows 命令行版：LLBot-CLI-win-x64.zip
+Linux 版：LLBot-CLI-linux-x64.zip / arm64
+3. 国内镜像（GitHub 访问慢时）
+GitCode 镜像：https://gitcode.com/gh_mirrors/li/LuckyLilliaBot
+第三方网盘（2026-05 最新）：https://asyyds.lanzouw.com/i9Ihh3if3y6f
+4. 安装提示
+必须先安装 64 位 腾讯QQ（原版，勿装其他插件）
+解压后运行 llbot.exe，按提示启动 QQ 并登录
+
+
+music文件夹是存放本地音乐文件，仅支持MP3和flac格式。建议给音乐文件重命名，点歌 晴天。晴天=音乐文件名
