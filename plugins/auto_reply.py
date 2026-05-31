@@ -457,7 +457,7 @@ async def handle_translate(bot: Bot, event):
     
     try:
         
-        API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-9952a92ad39842dda883fd792027fecc")
+        API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
         
         messages = [
             {"role": "system", "content": f"你是专业翻译器，将文本翻译成{target_lang}，只输出翻译结果"},
